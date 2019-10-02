@@ -1,0 +1,129 @@
+
+.header 
+{
+	
+	margin: 0px auto 0px auto; 
+	width: 80%;
+	background-color: white;
+	padding-bottom: 30px;
+	
+}
+.logo
+{
+	float: left;
+	background-color: white;
+	width:80%;
+
+}
+.btn
+{
+	padding: 5px;
+	border-style: none;
+	background-color: white;
+	border-style: none;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+.sign_up_box
+{
+	float: right;
+	width: 20%;
+}
+.sign_in_btn
+{
+	padding: 10px;
+	background-color: blue;
+	color: white;
+	font-size: 1em;
+	cursor:pointer;
+	border-radius: 5px;
+}
+.sign_up_btn
+{
+	padding: 10px;
+	background-color: green;
+	color: white;
+	margin-left: 20px;
+	font-size: 1em;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+
+.banner
+{
+	color: white;
+	background-color: gray;
+	margin:40px auto 0px auto;
+	width: 76%;
+	clear: both;
+}
+.banner_heading
+{
+	font-size: 2.5em;
+}
+.banner_small
+{
+	font-size: 1.2em;
+}
+.box
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin:0px auto 0px auto;
+	border-right-style: solid;
+	width:76%;
+}
+.inner_box_1
+{
+	border-style: solid;
+}
+.inner_box_2
+{
+	border-style: solid;
+	margin-left: 15px;
+}
+.inner_box_3
+{
+	border-style: solid;
+	border-right-style: none;
+	margin-left: 15px;
+}
+.ul_list
+{
+	list-style: none;
+	background-color: white;
+}
+li
+{
+	font-size: 1.3em;
+}
+.welcome_txt
+{
+	margin:0px auto 0px auto;
+	width:76%;
+}
+.footer
+{
+	margin:0px auto 0px auto;
+	width:76%;
+	background-color: black;
+	color: white;
+}
+.ul_footer
+{
+	list-style-type: none;
+	background-color: black;
+	width:90%;
+}
+.li_footer
+{
+	color: white;
+	display: inline;
+	margin-left: 80px;
+	font-size: 1.3em;
+    cursor: pointer;
+    background-color: black;
+}
+
